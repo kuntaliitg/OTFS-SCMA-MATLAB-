@@ -1,0 +1,1 @@
+This is the MATLAB code for the following paper: K. Deka, A. Thomas and S. Sharma, "OTFS-SCMA: A Code-Domain NOMA Approach for Orthogonal Time Frequency Space Modulation," in IEEE Transactions on Communications, vol. 69, no. 8, pp. 5043-5058, Aug. 2021, doi: 10.1109/TCOMM.2021.3075237
